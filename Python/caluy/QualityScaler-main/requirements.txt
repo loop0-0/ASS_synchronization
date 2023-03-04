@@ -1,0 +1,16 @@
+wmi
+pypiwin32
+tk-tools
+python-tkdnd
+ttkwidgets
+opencv-python-headless
+#auto-py-to-exe
+pyinstaller
+image_slicer
+matplotlib
+pywin32
+moviepy
+
+#pip install pytorch-directml -> test for next release
+
+#pip install torch==1.8.2+cu111 -f https://download.pytorch.org/whl/lts/1.8/torch_lts.html -> to do manually

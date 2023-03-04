@@ -1,0 +1,95 @@
+C++/ex1
+C++/ex1.c
+C++/ex2
+C++/ex2.c
+C++/fork
+C++/fork.c
+C++/ISO_C++_Logo.svg.png
+C++/حساب مدة مشاهدة الحلقات.cpp
+C++/حساب مدة مشاهدة الحلقات.exe
+C++/sub taitel/asolo.ass
+C++/sub taitel/ass.ass
+C++/sub taitel/converter_ass_fail
+C++/sub taitel/converter_ass_fail.cpp
+C++/sub taitel/fofo.txt
+C++/sub taitel/gogo.txt
+C++/sub taitel/koko
+C++/sub taitel/koko.cpp
+C++/sub taitel/kokol
+C++/sub taitel/kokol.cpp
+C++/sub taitel/tempCodeRunnerFile
+C++/sub taitel/tempCodeRunnerFile.cpp
+C++/sub taitel/test
+C++/sub taitel/test.c
+C++/sub taitel/ffsubsync-master/.coveragerc
+C++/sub taitel/ffsubsync-master/.gitattributes
+C++/sub taitel/ffsubsync-master/.gitignore
+C++/sub taitel/ffsubsync-master/.gitmodules
+C++/sub taitel/ffsubsync-master/.readthedocs.yml
+C++/sub taitel/ffsubsync-master/.travis.yml
+C++/sub taitel/ffsubsync-master/CODE_OF_CONDUCT.md
+C++/sub taitel/ffsubsync-master/HISTORY.rst
+C++/sub taitel/ffsubsync-master/LICENSE
+C++/sub taitel/ffsubsync-master/Makefile
+C++/sub taitel/ffsubsync-master/MANIFEST.in
+C++/sub taitel/ffsubsync-master/pyproject.toml
+C++/sub taitel/ffsubsync-master/pytest.ini
+C++/sub taitel/ffsubsync-master/README.md
+C++/sub taitel/ffsubsync-master/requirements-dev.txt
+C++/sub taitel/ffsubsync-master/requirements.txt
+C++/sub taitel/ffsubsync-master/setup.cfg
+C++/sub taitel/ffsubsync-master/setup.py
+C++/sub taitel/ffsubsync-master/versioneer.py
+C++/sub taitel/ffsubsync-master/.github/FUNDING.yml
+C++/sub taitel/ffsubsync-master/.github/ISSUE_TEMPLATE/bug_report.md
+C++/sub taitel/ffsubsync-master/.github/ISSUE_TEMPLATE/synchronization-problem.md
+C++/sub taitel/ffsubsync-master/.github/workflows/ci.yml
+C++/sub taitel/ffsubsync-master/docs/.gitignore
+C++/sub taitel/ffsubsync-master/docs/conf.py
+C++/sub taitel/ffsubsync-master/docs/index.rst
+C++/sub taitel/ffsubsync-master/docs/make.bat
+C++/sub taitel/ffsubsync-master/docs/Makefile
+C++/sub taitel/ffsubsync-master/docs/requirements-docs.txt
+C++/sub taitel/ffsubsync-master/docs/_static/.keep
+C++/sub taitel/ffsubsync-master/docs/_templates/.keep
+C++/sub taitel/ffsubsync-master/ffsubsync/__init__.py
+C++/sub taitel/ffsubsync-master/ffsubsync/_version.py
+C++/sub taitel/ffsubsync-master/ffsubsync/aligners.py
+C++/sub taitel/ffsubsync-master/ffsubsync/constants.py
+C++/sub taitel/ffsubsync-master/ffsubsync/ffmpeg_utils.py
+C++/sub taitel/ffsubsync-master/ffsubsync/ffsubsync_gui.py
+C++/sub taitel/ffsubsync-master/ffsubsync/ffsubsync.py
+C++/sub taitel/ffsubsync-master/ffsubsync/file_utils.py
+C++/sub taitel/ffsubsync-master/ffsubsync/generic_subtitles.py
+C++/sub taitel/ffsubsync-master/ffsubsync/golden_section_search.py
+C++/sub taitel/ffsubsync-master/ffsubsync/sklearn_shim.py
+C++/sub taitel/ffsubsync-master/ffsubsync/speech_transformers.py
+C++/sub taitel/ffsubsync-master/ffsubsync/subtitle_parser.py
+C++/sub taitel/ffsubsync-master/ffsubsync/subtitle_transformers.py
+C++/sub taitel/ffsubsync-master/ffsubsync/version.py
+C++/sub taitel/ffsubsync-master/gui/.gitignore
+C++/sub taitel/ffsubsync-master/gui/build-macos.sh
+C++/sub taitel/ffsubsync-master/gui/build-windows.sh
+C++/sub taitel/ffsubsync-master/gui/build.spec
+C++/sub taitel/ffsubsync-master/gui/entrypoint-windows.sh
+C++/sub taitel/ffsubsync-master/gui/ffsubsync-gui.py
+C++/sub taitel/ffsubsync-master/gui/Makefile
+C++/sub taitel/ffsubsync-master/gui/package-macos.sh
+C++/sub taitel/ffsubsync-master/gui/README.md
+C++/sub taitel/ffsubsync-master/gui/requirements.txt
+C++/sub taitel/ffsubsync-master/gui/hooks/hook-webrtcvad.py
+C++/sub taitel/ffsubsync-master/resources/img/config_icon.png
+C++/sub taitel/ffsubsync-master/resources/img/program_icon.icns
+C++/sub taitel/ffsubsync-master/resources/img/program_icon.png
+C++/sub taitel/ffsubsync-master/resources/img/subsync.png
+C++/sub taitel/ffsubsync-master/resources/img/tearing-me-apart-correct.gif
+C++/sub taitel/ffsubsync-master/resources/img/tearing-me-apart-wrong.gif
+C++/sub taitel/ffsubsync-master/resources/lib/win64/VCRUNTIME140_1.dll
+C++/sub taitel/ffsubsync-master/scripts/blacken.sh
+C++/sub taitel/ffsubsync-master/scripts/bump-version.py
+C++/sub taitel/ffsubsync-master/scripts/deploy.sh
+C++/sub taitel/ffsubsync-master/scripts/write-version.py
+C++/sub taitel/ffsubsync-master/tests/test_alignment.py
+C++/sub taitel/ffsubsync-master/tests/test_integration.py
+C++/sub taitel/ffsubsync-master/tests/test_misc.py
+C++/sub taitel/ffsubsync-master/tests/test_subtitles.py

@@ -93,3 +93,5 @@ C++/sub taitel/ffsubsync-master/tests/test_alignment.py
 C++/sub taitel/ffsubsync-master/tests/test_integration.py
 C++/sub taitel/ffsubsync-master/tests/test_misc.py
 C++/sub taitel/ffsubsync-master/tests/test_subtitles.py
+Python/caluy/Real-ESRGAN
+Python/caluy/BSRGAN
